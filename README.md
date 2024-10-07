@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # REST API Project
 
 Welcome to the REST API project! This project provides a simple RESTful API built with Node.js, Express, and MongoDB using Mongoose. It serves as a foundation for building more complex applications.
